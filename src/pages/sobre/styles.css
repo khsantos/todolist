@@ -1,0 +1,50 @@
+.container {
+    width: 100%;
+    
+}
+
+.separador-1 {
+    width: 70%;
+    height: 48rem;
+    float: left;
+    background: rgb(0,0,4);
+    background: linear-gradient(120deg, rgba(0,0,4,1) 0%, rgba(3,6,37,1) 100%);
+}
+
+.separador-2 {
+    width: 30%;
+    height: 48rem;
+    float: right;
+    background: rgb(0,0,4);
+    background: radial-gradient(circle, rgba(0,0,4,1) 0%, rgba(3,6,37,1) 100%);
+}
+
+.pfp {
+    margin-top: 25%;
+    width: 100%;
+}
+
+.github-logo {
+    width: 8rem;
+    height: 8rem;
+}
+
+.primary-text {
+    color: whitesmoke;
+    padding-top: 1.05rem;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.primary-title {
+    padding-top: 8rem;
+    color: whitesmoke;
+    font-weight: 300;
+    font-size: 3rem;
+}
+
+.secondary-title {
+    color: whitesmoke;
+}
+
